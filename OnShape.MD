@@ -3,7 +3,7 @@
 ![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-01-20%2011-57-39.png?raw=true)
 ------
 
-Contando con 8 proyectos concluidos y uno por iniciar esta es mi cuenta de OnShape
+*Contando con 8 proyectos concluidos y uno por iniciar esta es mi cuenta de OnShape
 
 
 
