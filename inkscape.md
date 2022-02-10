@@ -208,7 +208,16 @@ Se llama encaje porque al principio, se solía hacer entre los bordes de dos tir
 como si fuera una labor encajada entre ellas, y se denominaba asimismo randa (del alemán rand —borde u orilla—) 
 porque suele bordear a otra pieza.
 
-## Otros ejercicios de rasterizado
+## ¿Que es la impresion laser?
+
+Inventada por Gary Starkweather durante la década de 1973 y comercializada por primera vez en 1977. El dispositivo de impresión consta
+de un tambor fotoconductor unido a un depósito de tóner y un haz láser que es modulado y proyectado a través de un disco especular hacia
+el tambor fotoconductor. El giro del disco provoca un barrido del haz sobre la generatriz del tambor. Las zonas del tambor sobre las que
+incide el haz quedan ionizadas y, cuando esas zonas (mediante el giro del tambor) pasan por el depósito del tóner atraen el polvo ionizado 
+de este. Posteriormente el tambor entra en contacto con el papel, impregnando de polvo las zonas correspondientes. Para finalizar se fija la
+tinta al papel mediante una doble acción de presión y calor. 
+
+### Ejercicios de rasterizado e impresion laser
 
 ![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2010-33-57.png?raw=true)
 
