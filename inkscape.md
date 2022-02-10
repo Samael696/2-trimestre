@@ -1,3 +1,9 @@
+## Rasterizado
+
+### ¿Que es el restrerizado?
+
+Las imágenes rasterizadas (o de mapa de bits) se describen mediante un conjunto o mapa de bits dentro de una cuadrícula rectangular de píxeles o puntos. ... Imagen vectorial: La imagen vectorial se crea mediante la definición de puntos y curvas.
+
 ### ¿Que hemos aprendido?
 
 Hemos estasdo utilizando la pagina de tinkercad para crear nuestros modelos que sucesivamente fueron impresos por la maquina que hay aquí
@@ -192,6 +198,28 @@ El diseño de estos logos no fueron complicados para mí, la parte más delicada
 ![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2014-05-24.png?raw=true)
 
 
+## piezas de encaje
 
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2010-33-13.png?raw=true)
+
+### ¿Que son las piezas de encaje?
+
+Se llama encaje porque al principio, se solía hacer entre los bordes de dos tiras paralelas de lienzo,
+como si fuera una labor encajada entre ellas, y se denominaba asimismo randa (del alemán rand —borde u orilla—) 
+porque suele bordear a otra pieza.
+
+## Otros ejercicios de rasterizado
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2010-33-57.png?raw=true)
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2010-34-47.png?raw=true)
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2010-36-53.png?raw=true)
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2010-37-23.png?raw=true)
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2010-46-12.png?raw=true)
+
+------------------
 
 
