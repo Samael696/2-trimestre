@@ -53,46 +53,11 @@ En geometría, un cono recto es un sólido de revolución generado por el giro d
 
 ### ¿Que es un soporte angular?
 
--------------------------
 *Permite el montaje de travesaños entre carriles en aquellos casos en los que la apertura del carril y el travesaño no estén en el mismo plano. La misma pieza sirve para ambos extremos del travesaño, facilitando el almacenaje y sin riesgo de confusión.*
 
 ![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2012-02-10.png?raw=true)
 
 --------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
