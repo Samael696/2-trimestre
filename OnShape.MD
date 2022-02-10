@@ -45,7 +45,7 @@ En geometría, un cono recto es un sólido de revolución generado por el giro d
 
 ---------------------
 
-![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2011-53-57.png?raw=true)
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2011-53-31.png?raw=trueg)
 
 ---------------------
 
