@@ -96,4 +96,3 @@ En geometría, un cono recto es un sólido de revolución generado por el giro d
 
 
 
-
