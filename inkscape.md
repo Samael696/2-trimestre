@@ -218,9 +218,9 @@ porque suele bordear a otra pieza.
 
 ![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2010-36-53.png?raw=true)
 
-*Esta imagen vectorizada la imprimí en laser en una camiseta la cual quedó bastante bien, hubiera quedado mejor
+*Esta imagen vectorizada la imprimí en laser en una camiseta la cual quedó bastante bien, hubiera quedado mejor*
 
-de no ser que la camiseta era blanca y casi no se notaba el laser a menos que se enfocara bien con la luz.
+*de no ser que la camiseta era blanca y casi no se notaba el laser a menos que se enfocara bien con la luz.*
 
 ------------
 
