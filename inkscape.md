@@ -253,4 +253,17 @@ La principal diferencia entre los plotters y las impresoras de formato es el for
 
 ![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2012-09-55.png?raw=true)
 
+----------------------
+
+## Moldes
+
+### Que es un molde
+
+
+
+### Como se hace un molde
+
+
+
+### Para que sirve un molde
 
