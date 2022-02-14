@@ -88,7 +88,7 @@ Seleccionamos la imagen y pulsamos el botón.
 
 ---------------
 
-### *ejercicio*
+### *Ejercicio*
 
 -Vectorizamos el león con las siguientes características
 →multiples pasadas
