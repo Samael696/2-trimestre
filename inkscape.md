@@ -259,11 +259,12 @@ La principal diferencia entre los plotters y las impresoras de formato es el for
 
 ### Que es un molde
 
-
+Es un recipiente o pieza hueca donde se echa una masa blanda o líquida que, al solidificarse, toma la forma del recipiente.
 
 ### Como se hace un molde
 
-
+Por lo general, los primeros moldes estaban hechos de piedra, pero la ciencia moderna ha desarrollado materiales con los que resulta más fácil trabajar, como la silicona. Hoy, una amplia variedad de industrias recurren al moldeo con silicona.
 
 ### Para que sirve un molde
 
+ En general, se recurre a la ayuda de presión y temperatura para manejar el material y forzarlo a entrar y alcanzar toda la superficie de la cavidad.
