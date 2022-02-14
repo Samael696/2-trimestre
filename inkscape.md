@@ -64,6 +64,7 @@ añadimos la imagen de internet
 -copiar y pegar la imagen
 *click derecho en la imagen -- -- -- vectorizar mapas de bits
 
+--------------
 
 ### *Explicación* 
 
@@ -85,8 +86,9 @@ Leon 1.svg
 Después de importar el león vamos a ajustar el lienzo. Para ello iremos a propiedades de documento --» en tamaño, vamos a ajustar página o contenido.
 Seleccionamos la imagen y pulsamos el botón.
 
+---------------
 
-### ejercicio
+### *ejercicio*
 
 -Vectorizamos el león con las siguientes características
 →multiples pasadas
@@ -126,7 +128,7 @@ Seleccionamos la imagen y pulsamos el botón.
 ![](https://raw.githubusercontent.com/Samael696/arduino/186b7a697afacdd2fd1444fc29ad4c08af31089d/goku.svg)
 
 
-
+---------------------
 
 
 ### *Observaciones*
@@ -180,6 +182,7 @@ El siguiente paso, el rasterizado  es a lo que podriamos llamar “lo más compl
 
 La clase deinkscape me resulta muy interesante a mi gusto y me deja con ganas de aprender más.
 
+-----------------------
 
 ## *Logos*
 
@@ -187,16 +190,23 @@ La clase deinkscape me resulta muy interesante a mi gusto y me deja con ganas de
 
 ![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2012-42-26.png?raw=true)
 
+-----------
 
 El diseño de estos logos no fueron complicados para mí, la parte más delicada fue el círculo, fuera de eso todo ez. 
+
+------------------
 
 ## *LOGO*
 ![](https://raw.githubusercontent.com/Samael696/1er-trimestre/1b08d70c0d44f0012a0eb90db02a715a55412a2c/Favor2.svg)
 
+-------------
+
 ## *LOGO “PROPIO“*
+
 
 ![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2014-05-24.png?raw=true)
 
+-----------------------------
 
 ## *piezas de encaje*
 
