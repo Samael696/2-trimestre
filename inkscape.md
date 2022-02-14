@@ -1,10 +1,10 @@
-# Rasterizado
+# *Rasterizado*
 
-### ¿Que es el restrerizado?
+### *¿Que es el restrerizado?*
 
 Las imágenes rasterizadas (o de mapa de bits) se describen mediante un conjunto o mapa de bits dentro de una cuadrícula rectangular de píxeles o puntos. ... Imagen vectorial: La imagen vectorial se crea mediante la definición de puntos y curvas.
 
-### ¿Que hemos aprendido?
+### *¿Que hemos aprendido?*
 
 Hemos estasdo utilizando la pagina de tinkercad para crear nuestros modelos que sucesivamente fueron impresos por la maquina que hay aquí
 
@@ -24,7 +24,7 @@ la parte de la impresion 3D sin duda fue la que más me gustó debido a la infin
 
 -------
 
-## Propiedades de una imagen Ráster
+## *Propiedades de una imagen Ráster*
 
 *Resolución. Un mapa de bits tiene un tamaño concreto de A x B
 La resolución se puede expresar de diferentes formas
@@ -32,7 +32,7 @@ La resolución se puede expresar de diferentes formas
 Nº total de píxeles. normalmente MP (mega píxeles)
 esto es el numero que resulta de AxB en millones de píxeles
 
-### formatos comunes
+### *formatos comunes*
 
 -JPG(*JPEG)
 -GIF-------se puede animar
@@ -40,7 +40,7 @@ esto es el numero que resulta de AxB en millones de píxeles
 -TIFF
 
 
-### Ejercicio de vectorización
+### *jercicio de vectorización*
 
 Vamos a tomar la imagen del cuadro del León de Rosa Bonheur
 Esta es la imagen Rasterizada original 
@@ -65,7 +65,7 @@ añadimos la imagen de internet
 *click derecho en la imagen -- -- -- vectorizar mapas de bits
 
 
-### Explicación 
+### *Explicación* 
 
 ![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202021-10-20%2012-51-47.png?raw=true)
 
@@ -129,7 +129,7 @@ Seleccionamos la imagen y pulsamos el botón.
 
 
 
-### observaciones
+### *Observaciones*
 
 Me a resultado realmente fácil la vectorizacion de estas imagenes, solo hubieron algunos errores en la ultima imagen debido a que el personaje transparenta con el fondo de mi ordenador, muy probablemente no se note en un fondo blanco.
 
@@ -139,7 +139,7 @@ también he tenido que rediseñar pedazos del dibujo debido a que se veía muy f
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### Razterizado de imágenes 
+### *Razterizado de imágenes*
 
 ## león 01
 ![](https://github.com/Samael696/1er-trimestre/blob/main/le%C3%B3n01.png?raw=true)
@@ -161,7 +161,7 @@ también he tenido que rediseñar pedazos del dibujo debido a que se veía muy f
 ![](https://github.com/Samael696/1er-trimestre/blob/main/le%C3%B3n05.png?raw=true)
 
 
-## Tipos de color
+## *Tipos de color*
 
 ![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2010-26-22.png?raw=true)
 
@@ -181,7 +181,7 @@ El siguiente paso, el rasterizado  es a lo que podriamos llamar “lo más compl
 La clase deinkscape me resulta muy interesante a mi gusto y me deja con ganas de aprender más.
 
 
-## Logos
+## *Logos*
 
 ![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2012-41-53.png?raw=true)
 
@@ -190,25 +190,25 @@ La clase deinkscape me resulta muy interesante a mi gusto y me deja con ganas de
 
 El diseño de estos logos no fueron complicados para mí, la parte más delicada fue el círculo, fuera de eso todo ez. 
 
-## LOGO 
+## *LOGO*
 ![](https://raw.githubusercontent.com/Samael696/1er-trimestre/1b08d70c0d44f0012a0eb90db02a715a55412a2c/Favor2.svg)
 
-## LOGO “PROPIO“
+## *LOGO “PROPIO“*
 
 ![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2014-05-24.png?raw=true)
 
 
-## piezas de encaje
+## *piezas de encaje*
 
 ![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2010-33-13.png?raw=true)
 
-### ¿Que son las piezas de encaje?
+### *¿Que son las piezas de encaje?
 
 Se llama encaje porque al principio, se solía hacer entre los bordes de dos tiras paralelas de lienzo,
 como si fuera una labor encajada entre ellas, y se denominaba asimismo randa (del alemán rand —borde u orilla—) 
 porque suele bordear a otra pieza.
 
-## ¿Que es la impresion laser?
+## *¿Que es la impresion laser?*
 
 Inventada por Gary Starkweather durante la década de 1973 y comercializada por primera vez en 1977. El dispositivo de impresión consta
 de un tambor fotoconductor unido a un depósito de tóner y un haz láser que es modulado y proyectado a través de un disco especular hacia
@@ -239,15 +239,15 @@ tinta al papel mediante una doble acción de presión y calor.
 
 ------------------
 
-## Plotter
+## *Plotter*
 
-### ¿Que es un plotter y para que sirve?
+### *¿Que es un plotter y para que sirve?*
 
 El PLOTTER es un dispositivo de impresión diseñado especialmente para impresiones gráficas de gran precisión, tales que una impresora común no podría realizar. ... Contamos con marcas reconocidas dedicadas a la fabricación de estas impresoras de gran formato como son Canon, Epson, HP entre muchos otros.
 
 Esto va de la mano con el rasterizado y la vectorizacion de imagenes.
 
-### ¿Que diferencia hay entre una impresora y un plotter?
+### *¿Que diferencia hay entre una impresora y un plotter?*
 
 La principal diferencia entre los plotters y las impresoras de formato es el formato de archivo. Los plotters se basan en gráficos vectoriales, mientras que las impresoras de formato generan imágenes rasterizadas, también conocidas como mapas de bits o píxeles.
 
@@ -255,9 +255,9 @@ La principal diferencia entre los plotters y las impresoras de formato es el for
 
 ----------------------
 
-## Moldes
+## *Moldes*
 
-### Que es un molde
+### *¿Que es un molde?*
 
 Es un recipiente o pieza hueca donde se echa una masa blanda o líquida que, al solidificarse, toma la forma del recipiente.
 
@@ -267,10 +267,9 @@ Es un recipiente o pieza hueca donde se echa una masa blanda o líquida que, al 
 
 -------------------------
 
-### Como se hace un molde
-
+### *¿Como se hace un molde?*
 Por lo general, los primeros moldes estaban hechos de piedra, pero la ciencia moderna ha desarrollado materiales con los que resulta más fácil trabajar, como la silicona. Hoy, una amplia variedad de industrias recurren al moldeo con silicona.
 
-### Para que sirve un molde
+### *¿Para que sirve un molde?*
 
  En general, se recurre a la ayuda de presión y temperatura para manejar el material y forzarlo a entrar y alcanzar toda la superficie de la cavidad.
