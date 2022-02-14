@@ -261,6 +261,12 @@ La principal diferencia entre los plotters y las impresoras de formato es el for
 
 Es un recipiente o pieza hueca donde se echa una masa blanda o líquida que, al solidificarse, toma la forma del recipiente.
 
+-------------------------
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-14%2010-17-20.png?raw=true)
+
+-------------------------
+
 ### Como se hace un molde
 
 Por lo general, los primeros moldes estaban hechos de piedra, pero la ciencia moderna ha desarrollado materiales con los que resulta más fácil trabajar, como la silicona. Hoy, una amplia variedad de industrias recurren al moldeo con silicona.
