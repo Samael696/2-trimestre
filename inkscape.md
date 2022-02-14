@@ -1,4 +1,4 @@
-## Rasterizado
+# Rasterizado
 
 ### ¿Que es el restrerizado?
 
