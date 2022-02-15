@@ -59,10 +59,16 @@ En geometría, un cono recto es un sólido de revolución generado por el giro d
 
 --------------------
 
+## Belt Roller Assembly
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-15%2010-23-15.png?raw=true)
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-15%2010-23-19.png?raw=true)
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-15%2010-23-28.png?raw=true)
 
 
-
-
+---------------------
 
 
 
