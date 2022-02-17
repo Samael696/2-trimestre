@@ -18,4 +18,4 @@
 
 -----------
 
-4.[*CNC*]()
+4.[*CNC*](https://github.com/Samael696/3D/blob/main/CNC.md)
