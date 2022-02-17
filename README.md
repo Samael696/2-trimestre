@@ -14,8 +14,8 @@
 
 -----------
 
-3.[*Imagenes*](https://github.com/Samael696/3D/tree/main/images)
+4.[*CNC*](https://github.com/Samael696/3D/blob/main/CNC.md)
 
 -----------
 
-4.[*CNC*](https://github.com/Samael696/3D/blob/main/CNC.md)
+3.[*Imagenes*](https://github.com/Samael696/3D/tree/main/images)
