@@ -10,6 +10,12 @@
 
 -----------
 
+3.[*Plotter*](https://github.com/Samael696/3D/blob/main/Plotter.md)
+
+-----------
+
 3.[*Imagenes*](https://github.com/Samael696/3D/tree/main/images)
 
 -----------
+
+4.[*CNC*]()
