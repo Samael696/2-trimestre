@@ -8,3 +8,4 @@
 
 Los tornos CNC o torno de control numérico se refiere a una máquina herramienta del tipo torno que se utiliza para mecanizar piezas de revolución mediante un software de computadora que utiliza datos alfa-numéricos, siguiendo los ejes cartesianos
 
+![](https://github.com/Samael696/3D/blob/main/images/xcnc.jpg?raw=true)
