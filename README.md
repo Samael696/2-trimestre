@@ -18,4 +18,8 @@
 
 -----------
 
-5.[*Imagenes*](https://github.com/Samael696/3D/tree/main/images)
+5.[*Restricciones*](https://github.com/Samael696/3D/blob/main/Restricciones.md)
+
+-----------
+
+6.[*Imagenes*](https://github.com/Samael696/3D/tree/main/images)
