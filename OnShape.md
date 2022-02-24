@@ -13,6 +13,10 @@ el unico  limite que tienes es el de tu imaginacion, [OnShape](https://www.onsha
 
 ------
 
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-24%2013-49-50.png?raw=true)
+
+------
+
 https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-24%2013-49-50.png?raw=true
 
 ------
