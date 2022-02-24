@@ -18,4 +18,4 @@
 
 -----------
 
-3.[*Imagenes*](https://github.com/Samael696/3D/tree/main/images)
+5.[*Imagenes*](https://github.com/Samael696/3D/tree/main/images)
