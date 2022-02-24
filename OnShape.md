@@ -12,6 +12,8 @@ el unico  limite que tienes es el de tu imaginacion, [OnShape](https://www.onsha
 ![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-01-20%2011-57-39.png?raw=true)
 ------
 
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-24%2013-46-53.png?raw=true)
+
 *Contando con 8 proyectos concluidos y uno por iniciar esta es mi cuenta de OnShape*
 
 ---------------------
